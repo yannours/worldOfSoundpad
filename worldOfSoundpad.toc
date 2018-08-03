@@ -1,5 +1,6 @@
-## Interface: 80100
+## Interface: 80000
 ## Title: World Of SoundPad
-## Notes: Nothing to be done.
-## Version: 0.0.1
+## Author: Nouyan & Zeross
+## Notes: Yet another custom sounds addon.
+## Version: 8.0.1
 worldOfSoundpad.lua
